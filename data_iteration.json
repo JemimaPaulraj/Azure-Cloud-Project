@@ -1,6 +1,7 @@
 [
     {
-        "csv_relative_url":"refs/heads/main/first_100_customers.csv"
+        "csv_relative_url":"refs/heads/main/first_100_customers.csv",
         "file_name": "first_100_customers.csv"
     }
+
 ]
